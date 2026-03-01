@@ -8,7 +8,7 @@ Raw data and files can be found at (XXXX)
 
 The following are sample scripts used for a single dataset:
 
-  * Admixture_LEA.R
+  * Admixture_Visualization.R
   * DAPC.R
   * Fstat_Calculation.R
   * SNAQ_Visualization.R
